@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="title">4 Artworks by Leonardo da Vinci</string>
+    <string name="art_1_artwork_title">Mona Lisa</string>
+    <string name="art_2_artwork_title">Head of a Woman</string>
+    <string name="art_3_artwork_title">Lady with an Ermine</string>
+    <string name="art_4_artwork_title">The Virgin of the Rocks</string>
+    <string name="art_1_artwork_artist">Leonardo da Vinci</string>
+    <string name="art_2_artwork_artist">Leonardo da Vinci</string>
+    <string name="art_3_artwork_artist">Leonardo da Vinci</string>
+    <string name="art_4_artwork_artist">Leonardo da Vinci</string>
+    <string name="art_1_year">(c. 1503–19)</string>
+    <string name="art_2_year">(1500–10)</string>
+    <string name="art_3_year">(c. 1489–91)</string>
+    <string name="art_4_year">(c. 1483–86)</string>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+</resources>
